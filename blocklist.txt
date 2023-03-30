@@ -1,0 +1,5 @@
+api-itv-hub.conductrics.com	
+cdn.http.anno.channel4.com	
+cdn.ss.anno.channel4.com	
+ads-pres.channel4.com
+tom.itv.com
